@@ -31,7 +31,7 @@ To address this challenge, the Revenue Management division has decided to levera
 
 ## Project Goal
 
-- To design and deliver a comprehensive Hospitality Analytics Dashboard that enables AtliQ Grands to:
+To design and deliver a comprehensive Hospitality Analytics Dashboard that enables AtliQ Grands to:
 - Monitor key performance indicators (KPIs) like bookings, occupancy, revenue, and customer ratings.
 - Identify underperforming areas across cities, room categories, and booking platforms.
 - Uncover actionable insights to reduce cancellations and no-shows.
