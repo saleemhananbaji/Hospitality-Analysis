@@ -58,7 +58,7 @@ To design and deliver a comprehensive Hospitality Analytics Dashboard that enabl
   - Realisation % and ADR by booking platform
   - Property-level KPI comparison
 
-Purpose: Helps stakeholders quickly assess revenue drivers, room profitability, and performance by location and platform.
+Purpose: Helps stakeholders quickly assess revenue, room profitability, and performance by location and platform.
 
 
 ### Booking Overview 
@@ -70,7 +70,7 @@ This page focuses on booking behavior and customer trends. It highlights how gue
   - Overall cancellation rate, no-show rate, and average lead time
   - Total bookings split by Luxury vs Business category
 
-Purpose: Helps stakeholders quickly assess revenue drivers, room profitability, and performance by location and platform.
+Purpose: Assists management in understanding demand patterns, booking preferences, and operational gaps for better planning and targeting.
 
 ## Conclusion
 
