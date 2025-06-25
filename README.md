@@ -26,7 +26,8 @@ AtliQ Grands owns and operates multiple five-star hotels across major cities in 
 Despite its legacy and scale, AtliQ Grands has recently been losing market share and revenue due to:  
 - Aggressive competition from new players in the hospitality sector.  
 - Ineffective decision-making stemming from a lack of data-driven strategies.
-- To address this challenge, the Revenue Management division has decided to leverage Business and Data Intelligence by collaborating with a third-party analytics service provider.
+
+To address this challenge, the Revenue Management division has decided to leverage Business and Data Intelligence by collaborating with a third-party analytics service provider.
 
 ## Project Goal
 
