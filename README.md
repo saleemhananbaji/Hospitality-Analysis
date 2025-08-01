@@ -5,7 +5,7 @@
 **Project title:** AtliQ Grands - Hospitality Analysis   
 **Author:** Hanan Saleem Baji  
 **Live dashboard link:** [link](https://app.powerbi.com/view?r=eyJrIjoiNGVkMjUwMjYtMWE1Ny00NmFkLWE1ZGQtMjZmZTg1MTNkNTllIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)      
-**Dashboard presentation link:** [link](https://drive.google.com/file/d/1Wr8OOtT_Xz8mLPDmhwlVQjHNCE68Nnnn/view?usp=sharing)
+**Dashboard presentation link:** [link](https://www.youtube.com/embed/vvrA7JJ10hM?si=CXjnZXziTw07qLrY)
 
 
 ## Table of contents:
